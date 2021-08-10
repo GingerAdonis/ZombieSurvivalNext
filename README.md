@@ -14,7 +14,7 @@ When in doubt which one applies for what. Contact us.
 
 # Credits
 ## Project team
-* Jarno Veuger (Ywa) - Owner, merger, issue management
+* (Ywa) - Owner, merger, issue management
 * (Duby) - Head developer, Coder, Complaint box ;v 
 * (Gheii-Ben) - Graphics developer
 * (AzoNa) - Graphics developer
